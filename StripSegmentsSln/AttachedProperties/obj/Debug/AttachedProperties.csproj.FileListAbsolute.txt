@@ -1,0 +1,6 @@
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\bin\Debug\AttachedProperties.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\bin\Debug\AttachedProperties.pdb
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\obj\Debug\AttachedProperties.csprojAssemblyReference.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\obj\Debug\AttachedProperties.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\obj\Debug\AttachedProperties.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\AttachedProperties\obj\Debug\AttachedProperties.pdb

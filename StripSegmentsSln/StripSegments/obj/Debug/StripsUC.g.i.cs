@@ -9,7 +9,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using Common;
 using StripSegments;
 using System;
 using System.Diagnostics;

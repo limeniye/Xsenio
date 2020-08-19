@@ -1,0 +1,6 @@
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\bin\Debug\Common.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\bin\Debug\Common.pdb
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\obj\Debug\Common.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Common\obj\Debug\Common.pdb

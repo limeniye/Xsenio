@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Models
 {
@@ -60,17 +61,18 @@ namespace Models
         {
             // Получение Сегментов котрые начинаются до заданного 
             // дииапазона, но заканчиваются внутри него.
-            var listMin = segments
-                .OrderBy(sg => sg.end)
-                .SkipWhile(sg => sg.end <= range.begin)
-                .OrderBy(sg => sg.begin)
-                .TakeWhile(sg => sg.begin < range.begin);
-
+            IEnumerable<SegmentXml> listMin = segments
+                        .OrderBy(sg => sg.end)
+                        .SkipWhile(sg => sg.end <= range.begin)
+                        .OrderBy(sg => sg.begin)
+                        .TakeWhile(sg => sg.begin < range.begin);
+            
             // Получение Сегментов начинающихся внутри заданного Диапазона.
-            var listMax = segments
-                .OrderBy(sg => sg.begin)
-                .SkipWhile(sg => sg.begin < range.begin)
-                .TakeWhile(sg => sg.begin < range.end);
+            IEnumerable<SegmentXml> listMax = segments
+                        .OrderBy(sg => sg.begin)
+                        .SkipWhile(sg => sg.begin < range.begin)
+                        .TakeWhile(sg => sg.begin < range.end);
+            
 
             // Соединение полученных последовательностей,
             // преобразование в последовательность типа SegmentDto,

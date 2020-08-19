@@ -28,6 +28,7 @@ namespace Models
             Segments = segments.ToList().AsReadOnly();
             Range = range;
         }
+
     }
 
 }

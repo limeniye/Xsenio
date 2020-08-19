@@ -16,7 +16,7 @@ namespace Common
         /// <param name="targetType">Не используется</param>
         /// <param name="parameter">Не используется</param>
         /// <param name="culture">Не используется</param>
-        /// <returns>Состояние командя для указанног параметра</returns>
+        /// <returns>Состояние команд для указанног параметра</returns>
         public object Convert(object[] values, Type targetType, object parameter, CultureInfo culture)
         {
             if (values == null || values.Length < 1 || !(values[0] is ICommand command))

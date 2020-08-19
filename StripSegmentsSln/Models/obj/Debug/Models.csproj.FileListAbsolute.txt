@@ -1,0 +1,7 @@
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\bin\Debug\strips.xml
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\bin\Debug\Models.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\bin\Debug\Models.pdb
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\obj\Debug\Models.dll
+C:\Users\Арина\Desktop\StripSegmentsRepos-master\StripSegmentsSln\Models\obj\Debug\Models.pdb
